@@ -9,7 +9,7 @@ DiscourseTracker is very much still a work in progess... Here is a todo list sho
 - [x] Support for Hacker News.
 - [ ] Support for Lobste.rs
 - [ ] Support for Lemmy.
-- [ ] 
 # FAQ
-- Why is there no support for nested comments?
+- ## Why is there no support for nested comments?
+
 In online discussions, the further a comment is nested, the more it tends to diverge from the original topic. Therefore, DiscourseTracker online focuses on tracking the root comments rather than their subsequent replies or descendants. If you'd like support for nested comments, you are free to fork the repository and add it yourself.
